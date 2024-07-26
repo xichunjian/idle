@@ -1,7 +1,6 @@
 {
     "name": "chchja/idle",
-    "description": "闲峥框架只为多一个选择",
-    "license": "MIT",
+    
     "autoload": {
         "psr-4": {
             "Idle\\": "src/"
@@ -12,9 +11,9 @@
             "name": "harry"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0.0",
+        "ext-json": "*",
+        "ext-mbstring": "*"
     }
-
 }
