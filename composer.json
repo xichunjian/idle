@@ -1,0 +1,21 @@
+{
+    "name": "chchja/idle",
+    "description": "闲峥框架只为多一个选择",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Idle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "harry"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0",
+        "workerman/workerman": "^4.1"
+    }
+
+}
