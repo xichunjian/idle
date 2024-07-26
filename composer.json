@@ -1,9 +1,8 @@
 {
     "name": "chchja/idle",
-    
     "autoload": {
         "psr-4": {
-            "Idle\\": "src/"
+            "Chchja\\Idle\\": "src/"
         }
     },
     "authors": [
@@ -11,9 +10,5 @@
             "name": "harry"
         }
     ],
-    "require": {
-        "php": ">=8.0.0",
-        "ext-json": "*",
-        "ext-mbstring": "*"
-    }
+    "require": {}
 }
