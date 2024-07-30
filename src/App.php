@@ -5,6 +5,6 @@ class App
 {
     public function run()
     {
-        echo "App";
+        return "App";
     }
 }
