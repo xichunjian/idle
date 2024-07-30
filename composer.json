@@ -2,7 +2,7 @@
     "name": "chchja/idle",
     "autoload": {
         "psr-4": {
-            "Idle\\": "src/"
+            "idle\\": "src/"
         }
     },
     "authors": [
